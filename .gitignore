@@ -1,0 +1,13 @@
+# Data files
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+venv/
+.venv/
+env/
+E:\AI_agents_github\PowerPlant-dataset-minor-project-\ANN_models\DateFruit_Dataset.csv
